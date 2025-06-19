@@ -24,7 +24,7 @@ Cada una con su archivo css, identificadas con los mismos nombres.
 home.css
 portafolio.css
 cotacto.css
-/pages/
+/docs/
 home.html
 portafolio.html
 contacto.html
