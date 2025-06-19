@@ -29,12 +29,6 @@ home.html
 portafolio.html
 contacto.html
 
-## Installation
-Clone the repository:
-
-git clone https://github.com/moicanbas/masiv-test.git
-cd masiv-test
-
 ## Autor
 1. **Gabriela Camacho** - https://github.com/GabrielaCamachoA
 2. **Correo**: gabrielacacosta31@gmail.com
